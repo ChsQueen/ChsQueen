@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...stealth
 - 🌱 I’m currently learning ...the game of go
