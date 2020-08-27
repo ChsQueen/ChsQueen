@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ...stealth
+- 🔭 I’m currently working on ...stealth projects/product
 - 🌱 I’m currently learning ...the game of go
 - 👯 I’m looking to collaborate on ...on building Data Products
 - 🤔 I’m looking for help with ...generating potential sales leads
