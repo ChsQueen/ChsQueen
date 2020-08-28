@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on ...on building Data Products
 - 💬 Ask me about ...cool data Products
 - 📫 How to reach me: ...on Linkedin
-- ⚡ Fun fact: ...love to travel to places with historic significance, (history is intriguing..).
+- ⚡ Fun fact: ...love to travel to places with outdoor historic significance, (history is intriguing..).
